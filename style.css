@@ -1,0 +1,17 @@
+#rtemplate
+{
+    display: none;
+}
+.dp
+{
+    border-radius: 50%;
+    width: 50%;
+}
+.background
+{
+    background-color: aqua;
+}
+.bgcolour
+{
+    background-color:wheat;
+}
